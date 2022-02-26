@@ -9,7 +9,7 @@
 | Linked List (Doubly) | Not started |
 | Stack | Not started |
 | Queue | Not started |
-| Binary Tree | Not started |
+| Binary Tree | progressing |
 | Binary Search Tree | Not started |
 | Heap | Not started |
 | Hashing | Not started |
